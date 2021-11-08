@@ -1,2 +1,1 @@
-# dandoskkt
-is dandos kkt in python
+is dandos kkt? let's find out
